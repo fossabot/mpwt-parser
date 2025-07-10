@@ -1,4 +1,6 @@
 ## MPWT Parser
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDavin909%2Fmpwt-parser.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDavin909%2Fmpwt-parser?ref=badge_shield)
+
 
 A parser for `https://ts.mpwt.gov.kh/xxx` plate number QR Code. The parser will fetch data and parse it as a JSON format.
 
@@ -42,3 +44,6 @@ Result
 #### License
 
 `Apache-2.0`
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDavin909%2Fmpwt-parser.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDavin909%2Fmpwt-parser?ref=badge_large)
